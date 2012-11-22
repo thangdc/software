@@ -1,0 +1,1 @@
+﻿1.1.2|http://thangdc.googlecode.com/files/AlbumDownloader-1.1.2.zip|Sữa lỗi chức năng tự tạo folder có dấu tiếng Việt, bổ sung chức năng gửi link vào chương trình IDM, Cấu hình lưu trữ thư mục mặc định, bạn không cần phải chọn mỗi khi tải album mới, Chức năng ID3 cho album vẫn chưa hoàn thành được mình sẽ bổ sung trong thời gian sớm nhất có thể, cảm ơn các bạn
