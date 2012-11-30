@@ -1,1 +1,1 @@
-﻿1.1.7|http://thangdc.googlecode.com/files/AlbumDownloader-1.1.7.zip|+ Fix Dấu '-' bị thay thế bởi dấu cách + Tên album hiện trên tools nên để dấu Tiếng Việt trong Danh Sách còn thư mục thì bỏ dấu + Tag Mp3 với Tiêu đề và Album khi dùng chức năng tải về của Tools
+1.1.8|http://thangdc.googlecode.com/files/AlbumDownloader-1.1.8.zip|+ Fix cấu hình đường dẫn bị lỗi + Thêm cột nghệ sỹ trong danh sách bài hát + Tag Mp3 với Tiêu đề, Album và hình ảnh khi dùng chức năng tải về của Tools
