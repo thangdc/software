@@ -1,1 +1,1 @@
-1.1.8|http://thangdc.googlecode.com/files/AlbumDownloader-1.1.8.zip|+ Fix cấu hình đường dẫn bị lỗi + Thêm cột nghệ sỹ trong danh sách bài hát + Tag Mp3 với Tiêu đề, Album và hình ảnh khi dùng chức năng tải về của Tools
+1.1.9|http://thangdc.googlecode.com/files/AlbumDownloader-1.1.9.zip|+ Fix lỗi download album của tools
