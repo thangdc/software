@@ -1,1 +1,1 @@
-1.2.0|http://thangdc.googlecode.com/files/AlbumDownloader-1.2.0.zip|+ Fix lỗi download của version 1.1.9 + Khi gửi bài hát qua IDM thì sẽ chọn thư mục của chương trình để IDM tải về đúng thư mục album của bài hát
+1.2.1|http://thangdc.googlecode.com/files/AlbumDownloader-1.2.1.zip|+ Fix lỗi hiện ca sĩ trên tools, khi mình Lấy list album, rồi lấy tiếp list của một album khác, thì tab tên ca sĩ sẽ hiện tên của ca sĩ của list album trước, còn list album hiện tại thì không có.
