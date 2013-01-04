@@ -1,1 +1,1 @@
-1.2.2|http://thangdc.googlecode.com/files/AlbumDownloader-1.2.2.zip|+ Fix lỗi tải Album bài hát còn khoảng trắng ở đầu và cuối bài hát.
+﻿1.2.3|http://thangdc.googlecode.com/files/AlbumDownloader-1.2.3.zip|
