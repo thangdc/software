@@ -1,1 +1,1 @@
-1.2.7|http://thangdc.googlecode.com/files/AlbumDownloader-1.2.7.zip|
+1.2.8|http://thangdc.googlecode.com/files/AlbumDownloader-1.2.8.zip|
