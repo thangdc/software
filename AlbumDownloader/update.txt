@@ -1,1 +1,1 @@
-1.3.0|https://github.com/thangdc/Album-Downloader/raw/master/AlbumDownloader-1.3.0.zip|
+1.3.0|https://bitbucket.org/thangdc/phan-mem-viet/downloads/AlbumDownloader-1.3.0.zip|
